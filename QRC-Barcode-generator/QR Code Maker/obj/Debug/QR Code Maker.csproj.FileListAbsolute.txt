@@ -1,0 +1,15 @@
+E:\Users\Jesse\WORKSPACE\VS\Projects\QR Code Maker\QR Code Maker\bin\Debug\QR Code Maker.exe.config
+E:\Users\Jesse\WORKSPACE\VS\Projects\QR Code Maker\QR Code Maker\bin\Debug\QR Code Maker.exe
+E:\Users\Jesse\WORKSPACE\VS\Projects\QR Code Maker\QR Code Maker\bin\Debug\QR Code Maker.pdb
+E:\Users\Jesse\WORKSPACE\VS\Projects\QR Code Maker\QR Code Maker\obj\Debug\QR Code Maker.csprojResolveAssemblyReference.cache
+E:\Users\Jesse\WORKSPACE\VS\Projects\QR Code Maker\QR Code Maker\obj\Debug\QR_Code_Maker.frmQRCodeMaker.resources
+E:\Users\Jesse\WORKSPACE\VS\Projects\QR Code Maker\QR Code Maker\obj\Debug\QR_Code_Maker.Properties.Resources.resources
+E:\Users\Jesse\WORKSPACE\VS\Projects\QR Code Maker\QR Code Maker\obj\Debug\QR Code Maker.csproj.GenerateResource.Cache
+E:\Users\Jesse\WORKSPACE\VS\Projects\QR Code Maker\QR Code Maker\obj\Debug\QR Code Maker.csproj.CoreCompileInputs.cache
+E:\Users\Jesse\WORKSPACE\VS\Projects\QR Code Maker\QR Code Maker\obj\Debug\QR Code Maker.exe
+E:\Users\Jesse\WORKSPACE\VS\Projects\QR Code Maker\QR Code Maker\obj\Debug\QR Code Maker.pdb
+E:\Users\Jesse\WORKSPACE\VS\Projects\QR Code Maker\QR Code Maker\bin\Debug\Zen.Barcode.Core.dll
+E:\Users\Jesse\WORKSPACE\VS\Projects\QR Code Maker\QR Code Maker\bin\Debug\QR Code Maker.exe.manifest
+E:\Users\Jesse\WORKSPACE\VS\Projects\QR Code Maker\QR Code Maker\bin\Debug\QR Code Maker.application
+E:\Users\Jesse\WORKSPACE\VS\Projects\QR Code Maker\QR Code Maker\obj\Debug\QR Code Maker.exe.manifest
+E:\Users\Jesse\WORKSPACE\VS\Projects\QR Code Maker\QR Code Maker\obj\Debug\QR Code Maker.application
